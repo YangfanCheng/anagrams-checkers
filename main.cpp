@@ -10,7 +10,7 @@ int main(){
     string str2="dcba";
     
     cout<<anagrams(str1,str2)<<endl;
-    system("pause");
+    cin.get();
     return 0;    
 }
 
